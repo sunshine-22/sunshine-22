@@ -23,7 +23,7 @@ I'm a passionate **Software Developer**, **DevOps Engineer**, and **Security Con
 
 ### Cloud Platforms
 
-<div align="center">
+<div>
    <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="50" height="50" />
     <img src="https://www.svgrepo.com/show/448223/gcp.svg" alt="icon" width="50" height="50" />
     <img src="https://www.svgrepo.com/show/448271/azure-devops.svg" alt="icon" width="50" height="50" />
@@ -31,7 +31,7 @@ I'm a passionate **Software Developer**, **DevOps Engineer**, and **Security Con
 
 ### Programming Languages
 
-<div align="center">
+<div>
   <img src="https://www.svgrepo.com/show/452091/python.svg" alt="icon" width="50" height="50" />
    <img src="https://www.svgrepo.com/show/452234/java.svg" alt="icon" width="50" height="50" />
    <img src="https://www.svgrepo.com/show/373632/go.svg" alt="icon" width="50" height="50" />
@@ -45,7 +45,7 @@ I'm a passionate **Software Developer**, **DevOps Engineer**, and **Security Con
 
 ### Frontend Development
 
-<div align="center">
+<div>
   <img src="https://www.svgrepo.com/show/452092/react.svg" alt="icon" width="50" height="50" />
    <img src="https://www.svgrepo.com/show/452202/figma.svg" alt="icon" width="50" height="50" />
    <img src="https://www.svgrepo.com/show/342062/next-js.svg" alt="icon" width="50" height="50" />
@@ -56,7 +56,7 @@ I'm a passionate **Software Developer**, **DevOps Engineer**, and **Security Con
 
 ### DevOps & Infrastructure
 
-<div align="center">
+<div>
     <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="50" height="50" />
    <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="icon" width="50" height="50" />
    <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="50" height="50" />
@@ -73,7 +73,7 @@ I'm a passionate **Software Developer**, **DevOps Engineer**, and **Security Con
 
 ### Security & Monitoring
 
-<div align="center">
+<div>
    <img src="https://www.svgrepo.com/show/353829/grafana.svg" alt="icon" width="50" height="50" />
    <img src="https://www.svgrepo.com/show/377840/wireshark.svg" alt="icon" width="50" height="50" />
    <img src="https://www.svgrepo.com/show/448628/splunk.svg" alt="icon" width="50" height="50" />
@@ -81,7 +81,7 @@ I'm a passionate **Software Developer**, **DevOps Engineer**, and **Security Con
 
 ### Tools & Utilities
 
-<div align="center">
+<div>
    <img src="https://www.svgrepo.com/show/354202/postman-icon.svg" alt="icon" width="50" height="50" />
    <img src="https://www.svgrepo.com/show/353380/airflow.svg" alt="icon" width="50" height="50" />
    <img src="https://www.svgrepo.com/show/512317/github-142.svg" alt="icon" width="50" height="50" />
@@ -91,7 +91,7 @@ I'm a passionate **Software Developer**, **DevOps Engineer**, and **Security Con
 
 ### Databases
 
-<div align="center">
+<div>
     <img src="https://www.svgrepo.com/show/354200/postgresql.svg" alt="icon" width="50" height="50" />
    <img src="https://www.svgrepo.com/show/303251/mysql-logo.svg" alt="icon" width="50" height="50" />
    <img src="https://www.svgrepo.com/show/331488/mongodb.svg" alt="icon" width="50" height="50" />
@@ -150,7 +150,7 @@ Scalable microservices deployment on EKS with service mesh, observability, and a
 ---
 
 ## 🤝 Let's Connect!
-<div align="center">
+<div>
   <a href="https://linkedin.com/in/sunshine-22">
    <img src="https://www.svgrepo.com/show/448234/linkedin.svg" alt="icon" width="50" height="50" />
     
@@ -166,42 +166,10 @@ Scalable microservices deployment on EKS with service mesh, observability, and a
     <img src="https://www.svgrepo.com/show/514333/web-page.svg" alt="icon" width="50" height="50" />
   </a>
 </div>
-<div align="center" style="margin-top: 20px;">
-  <svg width="300" height="60" xmlns="http://www.w3.org/2000/svg">
-    <defs>
-      <linearGradient id="connectGrad" x1="0%" y1="0%" x2="100%" y2="0%">
-        <stop offset="0%" style="stop-color:#ff6b6b;stop-opacity:1" />
-        <stop offset="25%" style="stop-color:#4ecdc4;stop-opacity:1" />
-        <stop offset="50%" style="stop-color:#45b7d1;stop-opacity:1" />
-        <stop offset="75%" style="stop-color:#96ceb4;stop-opacity:1" />
-        <stop offset="100%" style="stop-color:#ffeaa7;stop-opacity:1" />
-      </linearGradient>
-      <filter id="textGlow">
-        <feGaussianBlur stdDeviation="4" result="coloredBlur"/>
-        <feMerge> 
-          <feMergeNode in="coloredBlur"/>
-          <feMergeNode in="SourceGraphic"/>
-        </feMerge>
-      </filter>
-    </defs>
-    <rect width="300" height="60" rx="15" fill="url(#connectGrad)" opacity="0.2">
-      <animate attributeName="opacity" values="0.2;0.4;0.2" dur="2s" repeatCount="indefinite"/>
-    </rect>
-    <text x="150" y="25" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="url(#connectGrad)" filter="url(#textGlow)">
-      💫 Let's build something amazing together! 💫
-      <animate attributeName="font-size" values="14;16;14" dur="2.5s" repeatCount="indefinite"/>
-    </text>
-    <text x="150" y="45" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#666">
-      Always open to interesting conversations and collaborations
-      <animate attributeName="opacity" values="0.6;1;0.6" dur="3s" repeatCount="indefinite"/>
-    </text>
-  </svg>
-</div>
 
 <div align="center">
   <svg width="200" height="35" xmlns="http://www.w3.org/2000/svg">
     <rect width="200" height="35" rx="5" fill="#36BCF7"/>
-    <text x="100" y="22" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="white">Profile Views: ✨</text>
   </svg>
 </div>
 <div align="center">
