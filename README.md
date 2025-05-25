@@ -110,6 +110,13 @@ Automated security scanning pipeline integrated with CI/CD for vulnerability ass
 ### ⚡ Microservices Architecture
 Scalable microservices deployment on EKS with service mesh, observability, and auto-scaling capabilities.
 
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=YourWakaTimeUsername&theme=tokyonight&layout=compact" />
+</div>
 
 ---
 
@@ -125,16 +132,13 @@ Scalable microservices deployment on EKS with service mesh, observability, and a
   <a href="mailto:tsabarishkumar@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://yourwebsite.com">
+  <a href="https://sabarish.in">
     <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" />
   </a>
 </div>
 
 ---
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=YourUsername&style=for-the-badge&color=blue" />
-</div>
 
 <div align="center">
   <i>⭐️ From [sabarish](https://github.com/sunshine-22/sunshine-22)</i>
