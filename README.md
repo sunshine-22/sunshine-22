@@ -1,4 +1,4 @@
-# Hi there, I'm Sabarish 👋
+# Hi there, I'm Sunshine 👋
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Software+Developer;DevOps+Engineer;Security+Consultant;Cloud+Architect" alt="Typing SVG" />
@@ -20,49 +20,118 @@ I'm a passionate **Software Developer**, **DevOps Engineer**, and **Security Con
 
 ### Cloud Platforms
 <div align="center">
-  <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
+  <svg width="120" height="35" xmlns="http://www.w3.org/2000/svg">
+    <rect width="120" height="35" rx="5" fill="#FF9900"/>
+    <text x="60" y="22" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="white">Amazon AWS</text>
+  </svg>
+  <svg width="120" height="35" xmlns="http://www.w3.org/2000/svg">
+    <rect width="120" height="35" rx="5" fill="#4285F4"/>
+    <text x="60" y="22" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="white">Google Cloud</text>
+  </svg>
+  <svg width="120" height="35" xmlns="http://www.w3.org/2000/svg">
+    <rect width="120" height="35" rx="5" fill="#0078D4"/>
+    <text x="60" y="22" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="white">Microsoft Azure</text>
+  </svg>
 </div>
 
 ### Programming Languages
 <div align="center">
-  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+  <svg width="100" height="35" xmlns="http://www.w3.org/2000/svg">
+    <rect width="100" height="35" rx="5" fill="#FFD43B"/>
+    <text x="50" y="22" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#306998">Python</text>
+  </svg>
+  <svg width="100" height="35" xmlns="http://www.w3.org/2000/svg">
+    <rect width="100" height="35" rx="5" fill="#F7DF1E"/>
+    <text x="50" y="22" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#323330">JavaScript</text>
+  </svg>
+  <svg width="100" height="35" xmlns="http://www.w3.org/2000/svg">
+    <rect width="100" height="35" rx="5" fill="#007ACC"/>
+    <text x="50" y="22" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="white">TypeScript</text>
+  </svg>
+  <svg width="80" height="35" xmlns="http://www.w3.org/2000/svg">
+    <rect width="80" height="35" rx="5" fill="#00ADD8"/>
+    <text x="40" y="22" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="white">Go</text>
+  </svg>
 </div>
 
 ### Frontend Development
 <div align="center">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <svg width="90" height="35" xmlns="http://www.w3.org/2000/svg">
+    <rect width="90" height="35" rx="5" fill="#20232A"/>
+    <text x="45" y="22" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#61DAFB">React</text>
+  </svg>
+  <svg width="90" height="35" xmlns="http://www.w3.org/2000/svg">
+    <rect width="90" height="35" rx="5" fill="#000000"/>
+    <text x="45" y="22" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="white">Next.js</text>
+  </svg>
+  <svg width="120" height="35" xmlns="http://www.w3.org/2000/svg">
+    <rect width="120" height="35" rx="5" fill="#38B2AC"/>
+    <text x="60" y="22" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="white">Tailwind CSS</text>
+  </svg>
 </div>
 
 ### DevOps & Infrastructure
 <div align="center">
-  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white" />
-  <img src="https://img.shields.io/badge/Amazon_EKS-FF9900?style=for-the-badge&logo=amazon-eks&logoColor=white" />
-  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
+  <svg width="90" height="35" xmlns="http://www.w3.org/2000/svg">
+    <rect width="90" height="35" rx="5" fill="#2CA5E0"/>
+    <text x="45" y="22" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="white">Docker</text>
+  </svg>
+  <svg width="110" height="35" xmlns="http://www.w3.org/2000/svg">
+    <rect width="110" height="35" rx="5" fill="#326ce5"/>
+    <text x="55" y="22" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="white">Kubernetes</text>
+  </svg>
+  <svg width="110" height="35" xmlns="http://www.w3.org/2000/svg">
+    <rect width="110" height="35" rx="5" fill="#FF9900"/>
+    <text x="55" y="22" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="white">Amazon EKS</text>
+  </svg>
+  <svg width="100" height="35" xmlns="http://www.w3.org/2000/svg">
+    <rect width="100" height="35" rx="5" fill="#7B42BC"/>
+    <text x="50" y="22" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="white">Terraform</text>
+  </svg>
+  <svg width="90" height="35" xmlns="http://www.w3.org/2000/svg">
+    <rect width="90" height="35" rx="5" fill="#D24939"/>
+    <text x="45" y="22" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="white">Jenkins</text>
+  </svg>
+  <svg width="130" height="35" xmlns="http://www.w3.org/2000/svg">
+    <rect width="130" height="35" rx="5" fill="#2088FF"/>
+    <text x="65" y="22" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="white">GitHub Actions</text>
+  </svg>
 </div>
 
 ### Security & Monitoring
 <div align="center">
-  <img src="https://img.shields.io/badge/Prometheus-000000?style=for-the-badge&logo=prometheus&labelColor=000000" />
-  <img src="https://img.shields.io/badge/Grafana-F2F4F9?style=for-the-badge&logo=grafana&logoColor=orange&labelColor=F2F4F9" />
-  <img src="https://img.shields.io/badge/Elastic_Search-005571?style=for-the-badge&logo=elasticsearch&logoColor=white" />
-  <img src="https://img.shields.io/badge/Snyk-4C4A73?style=for-the-badge&logo=snyk&logoColor=white" />
+  <svg width="110" height="35" xmlns="http://www.w3.org/2000/svg">
+    <rect width="110" height="35" rx="5" fill="#E6522C"/>
+    <text x="55" y="22" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="white">Prometheus</text>
+  </svg>
+  <svg width="90" height="35" xmlns="http://www.w3.org/2000/svg">
+    <rect width="90" height="35" rx="5" fill="#F46800"/>
+    <text x="45" y="22" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="white">Grafana</text>
+  </svg>
+  <svg width="130" height="35" xmlns="http://www.w3.org/2000/svg">
+    <rect width="130" height="35" rx="5" fill="#005571"/>
+    <text x="65" y="22" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="white">Elasticsearch</text>
+  </svg>
+  <svg width="80" height="35" xmlns="http://www.w3.org/2000/svg">
+    <rect width="80" height="35" rx="5" fill="#4C4A73"/>
+    <text x="40" y="22" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="white">Snyk</text>
+  </svg>
 </div>
 
 ### Databases
 <div align="center">
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+  <svg width="110" height="35" xmlns="http://www.w3.org/2000/svg">
+    <rect width="110" height="35" rx="5" fill="#316192"/>
+    <text x="55" y="22" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="white">PostgreSQL</text>
+  </svg>
+  <svg width="100" height="35" xmlns="http://www.w3.org/2000/svg">
+    <rect width="100" height="35" rx="5" fill="#4EA94B"/>
+    <text x="50" y="22" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="white">MongoDB</text>
+  </svg>
+  <svg width="80" height="35" xmlns="http://www.w3.org/2000/svg">
+    <rect width="80" height="35" rx="5" fill="#DC382D"/>
+    <text x="40" y="22" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="white">Redis</text>
+  </svg>
 </div>
 
 ---
@@ -70,16 +139,16 @@ I'm a passionate **Software Developer**, **DevOps Engineer**, and **Security Con
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&langs_count=8&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sunshine-22&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunshine-22&layout=compact&langs_count=8&theme=tokyonight"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=YourUsername&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=sunshine-22&theme=tokyonight&hide_border=true" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YourUsername&theme=tokyo-night&hide_border=true&area=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sunshine-22&theme=tokyo-night&hide_border=true&area=true" />
 </div>
 
 ---
@@ -87,7 +156,7 @@ I'm a passionate **Software Developer**, **DevOps Engineer**, and **Security Con
 ## 🏆 Achievements & Certifications
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YourUsername&theme=tokyonight&no-frame=true&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=sunshine-22&theme=tokyonight&no-frame=true&row=1&column=6" />
 </div>
 
 ### 🎯 Certifications
@@ -115,7 +184,7 @@ Scalable microservices deployment on EKS with service mesh, observability, and a
 ## 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=YourWakaTimeUsername&theme=tokyonight&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=sunshine-22&theme=tokyonight&layout=compact" />
 </div>
 
 ---
@@ -123,23 +192,41 @@ Scalable microservices deployment on EKS with service mesh, observability, and a
 ## 🤝 Let's Connect!
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/sabarish22/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://linkedin.com/in/sunshine-22">
+    <svg width="100" height="35" xmlns="http://www.w3.org/2000/svg">
+      <rect width="100" height="35" rx="5" fill="#0077B5"/>
+      <text x="50" y="22" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="white">LinkedIn</text>
+    </svg>
   </a>
-  <a href="https://twitter.com/sunshine-22">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  <a href="https://twitter.com/sunshine_22">
+    <svg width="90" height="35" xmlns="http://www.w3.org/2000/svg">
+      <rect width="90" height="35" rx="5" fill="#1DA1F2"/>
+      <text x="45" y="22" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="white">Twitter</text>
+    </svg>
   </a>
   <a href="mailto:tsabarishkumar@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <svg width="80" height="35" xmlns="http://www.w3.org/2000/svg">
+      <rect width="80" height="35" rx="5" fill="#D14836"/>
+      <text x="40" y="22" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="white">Gmail</text>
+    </svg>
   </a>
   <a href="https://sabarish.in">
-    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" />
+    <svg width="90" height="35" xmlns="http://www.w3.org/2000/svg">
+      <rect width="90" height="35" rx="5" fill="#000000"/>
+      <text x="45" y="22" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="white">Website</text>
+    </svg>
   </a>
 </div>
 
 ---
 
+<div align="center">
+  <svg width="200" height="35" xmlns="http://www.w3.org/2000/svg">
+    <rect width="200" height="35" rx="5" fill="#36BCF7"/>
+    <text x="100" y="22" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="white">Profile Views: ✨</text>
+  </svg>
+</div>
 
 <div align="center">
-  <i>⭐️ From [sabarish](https://github.com/sunshine-22/sunshine-22)</i>
+  <i>⭐️ From <a href="https://github.com/sunshine-22">sunshine-22</a></i>
 </div>
