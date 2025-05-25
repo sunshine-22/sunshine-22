@@ -3,9 +3,7 @@
 
 <div style="display: flex; align-items: center; justify-content: center; gap: 20px; flex-wrap: wrap;">
   <h1>Hi there, I'm Sunshine 👋</h1>
-  <div>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Software+Developer;DevOps+Engineer;Security+Consultant;Cloud+Architect" alt="Typing SVG" />
-  </div>
+  
 </div>
 
 ## 🚀 About Me
