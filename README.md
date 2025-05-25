@@ -25,74 +25,53 @@ I'm a passionate **Software Developer**, **DevOps Engineer**, and **Security Con
    <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="50" height="50" />
    <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="icon" width="50" height="50" />
    <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="50" height="50" />
-
+    <img src="https://www.svgrepo.com/show/448223/gcp.svg" alt="icon" width="50" height="50" />
+    <img src="https://www.svgrepo.com/show/448216/consul.svg" alt="icon" width="50" height="50" />
+    <img src="https://www.svgrepo.com/show/448270/aws-s3.svg" alt="icon" width="50" height="50" />
+    <img src="https://www.svgrepo.com/show/353454/aws-iam.svg" alt="icon" width="50" height="50" />
+    <img src="https://www.svgrepo.com/show/353458/aws-rds.svg" alt="icon" width="50" height="50" />
 </div>
 
 ### Programming Languages
 
 <div align="center">
-  <svg width="100" height="35" xmlns="http://www.w3.org/2000/svg">
-    <rect width="100" height="35" rx="5" fill="#FFD43B"/>
-    <text x="50" y="22" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#306998">Python</text>
-  </svg>
-  <svg width="100" height="35" xmlns="http://www.w3.org/2000/svg">
-    <rect width="100" height="35" rx="5" fill="#F7DF1E"/>
-    <text x="50" y="22" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#323330">JavaScript</text>
-  </svg>
-  <svg width="100" height="35" xmlns="http://www.w3.org/2000/svg">
-    <rect width="100" height="35" rx="5" fill="#007ACC"/>
-    <text x="50" y="22" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="white">TypeScript</text>
-  </svg>
-  <svg width="80" height="35" xmlns="http://www.w3.org/2000/svg">
-    <rect width="80" height="35" rx="5" fill="#00ADD8"/>
-    <text x="40" y="22" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="white">Go</text>
-  </svg>
+  <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="50" height="50" />
+   <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="50" height="50" />
+   <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="icon" width="50" height="50" />
+   <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="50" height="50" />
+    <img src="https://www.svgrepo.com/show/448223/gcp.svg" alt="icon" width="50" height="50" />
+    <img src="https://www.svgrepo.com/show/448216/consul.svg" alt="icon" width="50" height="50" />
+    <img src="https://www.svgrepo.com/show/448270/aws-s3.svg" alt="icon" width="50" height="50" />
+    <img src="https://www.svgrepo.com/show/353454/aws-iam.svg" alt="icon" width="50" height="50" />
+    <img src="https://www.svgrepo.com/show/353458/aws-rds.svg" alt="icon" width="50" height="50" />
 </div>
 
 ### Frontend Development
 
 <div align="center">
-  <svg width="90" height="35" xmlns="http://www.w3.org/2000/svg">
-    <rect width="90" height="35" rx="5" fill="#20232A"/>
-    <text x="45" y="22" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#61DAFB">React</text>
-  </svg>
-  <svg width="90" height="35" xmlns="http://www.w3.org/2000/svg">
-    <rect width="90" height="35" rx="5" fill="#000000"/>
-    <text x="45" y="22" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="white">Next.js</text>
-  </svg>
-  <svg width="120" height="35" xmlns="http://www.w3.org/2000/svg">
-    <rect width="120" height="35" rx="5" fill="#38B2AC"/>
-    <text x="60" y="22" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="white">Tailwind CSS</text>
-  </svg>
+  <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="50" height="50" />
+   <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="50" height="50" />
+   <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="icon" width="50" height="50" />
+   <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="50" height="50" />
+    <img src="https://www.svgrepo.com/show/448223/gcp.svg" alt="icon" width="50" height="50" />
+    <img src="https://www.svgrepo.com/show/448216/consul.svg" alt="icon" width="50" height="50" />
+    <img src="https://www.svgrepo.com/show/448270/aws-s3.svg" alt="icon" width="50" height="50" />
+    <img src="https://www.svgrepo.com/show/353454/aws-iam.svg" alt="icon" width="50" height="50" />
+    <img src="https://www.svgrepo.com/show/353458/aws-rds.svg" alt="icon" width="50" height="50" />
 </div>
 
 ### DevOps & Infrastructure
 
 <div align="center">
-  <svg width="90" height="35" xmlns="http://www.w3.org/2000/svg">
-    <rect width="90" height="35" rx="5" fill="#2CA5E0"/>
-    <text x="45" y="22" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="white">Docker</text>
-  </svg>
-  <svg width="110" height="35" xmlns="http://www.w3.org/2000/svg">
-    <rect width="110" height="35" rx="5" fill="#326ce5"/>
-    <text x="55" y="22" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="white">Kubernetes</text>
-  </svg>
-  <svg width="110" height="35" xmlns="http://www.w3.org/2000/svg">
-    <rect width="110" height="35" rx="5" fill="#FF9900"/>
-    <text x="55" y="22" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="white">Amazon EKS</text>
-  </svg>
-  <svg width="100" height="35" xmlns="http://www.w3.org/2000/svg">
-    <rect width="100" height="35" rx="5" fill="#7B42BC"/>
-    <text x="50" y="22" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="white">Terraform</text>
-  </svg>
-  <svg width="90" height="35" xmlns="http://www.w3.org/2000/svg">
-    <rect width="90" height="35" rx="5" fill="#D24939"/>
-    <text x="45" y="22" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="white">Jenkins</text>
-  </svg>
-  <svg width="130" height="35" xmlns="http://www.w3.org/2000/svg">
-    <rect width="130" height="35" rx="5" fill="#2088FF"/>
-    <text x="65" y="22" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="white">GitHub Actions</text>
-  </svg>
+  <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="50" height="50" />
+   <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="50" height="50" />
+   <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="icon" width="50" height="50" />
+   <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="50" height="50" />
+    <img src="https://www.svgrepo.com/show/448223/gcp.svg" alt="icon" width="50" height="50" />
+    <img src="https://www.svgrepo.com/show/448216/consul.svg" alt="icon" width="50" height="50" />
+    <img src="https://www.svgrepo.com/show/448270/aws-s3.svg" alt="icon" width="50" height="50" />
+    <img src="https://www.svgrepo.com/show/353454/aws-iam.svg" alt="icon" width="50" height="50" />
+    <img src="https://www.svgrepo.com/show/353458/aws-rds.svg" alt="icon" width="50" height="50" />
 </div>
 
 ### Security & Monitoring
