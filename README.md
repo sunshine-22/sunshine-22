@@ -181,14 +181,6 @@ Scalable microservices deployment on EKS with service mesh, observability, and a
 
 ---
 
-## 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=sunshine-22&theme=tokyonight&layout=compact" />
-</div>
-
----
-
 ## 🤝 Let's Connect!
 
 <div align="center">
