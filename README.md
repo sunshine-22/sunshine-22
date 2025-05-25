@@ -1,9 +1,12 @@
 <div><img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" height="5%" style="display:inline;">
 <img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" height ="5%"style="display:inline;">
+
 # Hi there, I'm Sunshine 👋
+
 <div style="margin: 20px 0;">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Software+Developer;DevOps+Engineer;Security+Consultant;Cloud+Architect" alt="Typing SVG" />
 </div>
+
 ## 🚀 About Me
 
 I'm a passionate **Software Developer**, **DevOps Engineer**, and **Security Consultant** with expertise in cloud infrastructure, containerization, and secure application development. I love building scalable solutions and automating complex workflows while maintaining the highest security standards.
