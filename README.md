@@ -15,6 +15,8 @@ I'm a passionate **Software Developer**, **DevOps Engineer**, and **Security Con
 💬 Ask me about AWS, GCP, Kubernetes,GenAi, Python, or React  
 ⚡ Fun fact: I automate everything, including my coffee machine ☕
 
+![Profile views](https://komarev.com/ghpvc/?username=sunshine-22&label=Profile+Views&color=0e75b6&style=flat)
+
 ---
 
 ## 🛠️ Tech Stack & Skills
