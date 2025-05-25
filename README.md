@@ -122,21 +122,20 @@ Scalable microservices deployment on EKS with service mesh, observability, and a
 ## 🤝 Let's Connect!
 
 <div>
-  <a href="https://linkedin.com/in/sunshine-22">
-   <img src="https://www.svgrepo.com/show/448234/linkedin.svg" alt="icon" width="50" height="50" />
-    
+  <a href="https://linkedin.com/in/sunshine-22" style="padding: 10px;">
+    <img src="https://www.svgrepo.com/show/448234/linkedin.svg" alt="icon" width="50" height="50" />
   </a>
-  <a href="https://twitter.com/sunshine_22">
-   <img src="https://www.svgrepo.com/show/452123/twitter.svg" alt="icon" width="50" height="50" />
-    
+  <a href="https://twitter.com/sunshine_22" style="padding: 10px;">
+    <img src="https://www.svgrepo.com/show/452123/twitter.svg" alt="icon" width="50" height="50" />
   </a>
-  <a href="mailto:tsabarishkumar@gmail.com">
-   <img src="https://www.svgrepo.com/show/349378/gmail.svg" alt="icon" width="50" height="50" />
+  <a href="mailto:tsabarishkumar@gmail.com" style="padding: 10px;">
+    <img src="https://www.svgrepo.com/show/349378/gmail.svg" alt="icon" width="50" height="50" />
   </a>
-  <a href="https://sabarish.in">
+  <a href="https://sabarish.in" style="padding: 10px;">
     <img src="https://www.svgrepo.com/show/514333/web-page.svg" alt="icon" width="50" height="50" />
   </a>
 </div>
+
 
 <div align="center">
   <svg width="200" height="35" xmlns="http://www.w3.org/2000/svg">
