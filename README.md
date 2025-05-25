@@ -123,11 +123,11 @@ Scalable microservices deployment on EKS with service mesh, observability, and a
 <p align="left">
 <a href="https://twitter.com/sunshine_22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="suryasanity" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/sunshine-22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="surya-t" height="30" width="40" /></a>
-<a href="mailto:tsabarishkumar@gmail.com" style="margin: 0 15px;">
+<a href="mailto:tsabarishkumar@gmail.com" target="blank" style="margin: 0 15px;">
     <img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Gmail.svg" alt="Gmail" width="40" height="40" />
   </a>
-  <a href="https://sabarish.in" style="margin: 0 15px;">
-    <img src="https://www.svgrepo.com/show/514333/web-page.svg" alt="Website" width="20" height="20" />
+  <a href="https://sabarish.in" target="blank" style="margin: 0 15px;">
+    <img src="https://www.svgrepo.com/show/514333/web-page.svg" alt="Website" width="30" height="30" />
   </a>
 </p>
 
