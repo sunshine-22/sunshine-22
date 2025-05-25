@@ -1,13 +1,9 @@
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="20%" style="margin: 0 1rem;" />
-  
-  <h1>Hi, I'm Sunshine 👋</h1>
-  
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=36BCF7&center=true&width=600&lines=Software+Developer;DevOps+Engineer;Security+Consultant;Cloud+Architect" alt="Typing animation" />
-  
-  <img src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="20%" style="margin: 1rem 1rem 0;" />
-</div>
+<div><img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" height="5%" style="display:inline;">
+<img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" height ="5%"style="display:inline;">
 
+<div style="display: flex; align-items: center; justify-content: center; gap: 20px; flex-wrap: wrap;">
+  <h1>Hi there, I'm Sunshine 👋</h1>
+</div>
 
 ## 🚀 About Me
 
