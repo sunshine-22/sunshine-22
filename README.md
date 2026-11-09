@@ -1,138 +1,182 @@
-<div style="display: flex; gap: 20px; flex-wrap: wrap;">
-  <h1>Hi there, I'm Sunshine 👋</h1>
-  <div>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=36BCF7&width=600&lines=Software+Developer;DevOps+Engineer;Security+Consultant;Cloud+Architect" alt="Typing SVG" />
-  </div>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:36BCF7&height=200&section=header&text=Sabarish&fontSize=60&fontColor=36BCF7&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%E2%80%A2%20Cloud%20Architect%20%E2%80%A2%20Security%20Engineer&descSize=16&descAlignY=58&descAlign=50&descColor=8b949e" width="100%"/>
 </div>
 
-## 🚀 About Me
+<br/>
 
-I'm a passionate **Software Developer**, **DevOps Engineer**, and **Security Consultant** with expertise in cloud infrastructure, containerization, and secure application development. I love building scalable solutions and automating complex workflows while maintaining the highest security standards.
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&random=false&width=600&lines=Building+things+at+cloud+scale+%F0%9F%9A%80;Breaking+systems+to+harden+them+%F0%9F%94%90;Automating+everything+in+sight+%E2%9A%A1;kubectl+apply+-f+my-life.yaml+%E2%98%81%EF%B8%8F" alt="Typing SVG" />
+</div>
 
-🔭 Currently working on cloud-native applications and infrastructure automation  
-🌱 Always learning about emerging technologies in cloud computing and cybersecurity  
-👯 Looking to collaborate on open-source DevOps and security tools  
-💬 Ask me about AWS, GCP, Kubernetes,GenAi, Python, or React  
-⚡ Fun fact: I automate everything, including my coffee machine ☕
+<br/>
 
-![Profile views](https://komarev.com/ghpvc/?username=sunshine-22&label=Profile+Views&color=0e75b6&style=flat)
+<div align="center">
+  <a href="https://www.sabarish.in">
+    <img src="https://img.shields.io/badge/sabarish.in-%23000000?style=for-the-badge&logo=About.me&logoColor=36BCF7"/>
+  </a>
+  &nbsp;
+  <a href="https://linkedin.com/in/sunshine-22">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="https://twitter.com/sunshine_22">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+  </a>
+  &nbsp;
+  <img src="https://komarev.com/ghpvc/?username=sunshine-22&style=for-the-badge&color=36BCF7&label=VISITORS"/>
+</div>
+
+<br/>
 
 ---
 
-## 🛠️ Tech Stack & Skills
+```bash
+$ whoami
+```
 
-### Cloud Platforms
+```
+┌─────────────────────────────────────────────────────────────────┐
+│                                                                   │
+│   sabarish@cloud:~$                                               │
+│                                                                   │
+│   Name    →  Sabarish                                             │
+│   Role    →  Software Dev · DevOps · Cloud Architect · AppSec     │
+│   Stack   →  Python · Go · TypeScript · Kubernetes · Terraform    │
+│   Focus   →  Infra automation, secure pipelines, cloud-native     │
+│   Status  →  Breaking prod (in staging) & building things 🛠️      │
+│                                                                   │
+└─────────────────────────────────────────────────────────────────┘
+```
 
-<div>
-   <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="50" height="50" />
-    <img src="https://www.svgrepo.com/show/448223/gcp.svg" alt="icon" width="50" height="50" />
-    <img src="https://www.svgrepo.com/show/448271/azure-devops.svg" alt="icon" width="50" height="50" />
-    <img src="https://www.svgrepo.com/show/452091/python.svg" alt="icon" width="50" height="50" />
-   <img src="https://www.svgrepo.com/show/452234/java.svg" alt="icon" width="50" height="50" />
-   <img src="https://www.svgrepo.com/show/373632/go.svg" alt="icon" width="50" height="50" />
-   <img src="https://www.svgrepo.com/show/452045/js.svg" alt="icon" width="50" height="50" />
-    <img src="https://www.sabarish.in/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ffastapi.52499f35.svg&w=384&q=75" alt="icon" width="50" height="50" />
-    <img src="https://www.sabarish.in/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fflutter.a0050538.svg&w=384&q=75" alt="icon" width="50" height="50" />
-    <img src="https://www.sabarish.in/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ftypescript.37aa8d5d.svg&w=384&q=75" alt="icon" width="50" height="50" />
-    <img src="https://www.sabarish.in/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fscala.f63b99d5.svg&w=384&q=75" alt="icon" width="50" height="50" />
-    <img src="https://www.sabarish.in/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fdjango.84b4d19c.svg&w=384&q=75" alt="icon" width="50" height="50" />
-     <img src="https://www.svgrepo.com/show/452092/react.svg" alt="icon" width="50" height="50" />
-   <img src="https://www.svgrepo.com/show/452202/figma.svg" alt="icon" width="50" height="50" />
-   <img src="https://www.svgrepo.com/show/342062/next-js.svg" alt="icon" width="50" height="50" />
-      <img src="https://www.svgrepo.com/show/452228/html-5.svg" alt="icon" width="50" height="50" />
-         <img src="https://www.svgrepo.com/show/374067/scss2.svg" alt="icon" width="50" height="50" />
-         <img src="https://www.svgrepo.com/show/374118/tailwind.svg" alt="icon" width="50" height="50" />
-          <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="50" height="50" />
-   <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="icon" width="50" height="50" />
-   <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="50" height="50" />
-       <img src="https://www.svgrepo.com/show/374122/terraform.svg" alt="icon" width="50" height="50" />
-   <img src="https://www.svgrepo.com/show/373505/circleci.svg" alt="icon" width="50" height="50" />
-  <img src="https://www.svgrepo.com/show/448216/consul.svg" alt="icon" width="50" height="50" />
-    <img src="https://www.svgrepo.com/show/448270/aws-s3.svg" alt="icon" width="50" height="50" />
-    <img src="https://www.svgrepo.com/show/353454/aws-iam.svg" alt="icon" width="50" height="50" />
-    <img src="https://www.svgrepo.com/show/353458/aws-rds.svg" alt="icon" width="50" height="50" />
-        <img src="https://www.sabarish.in/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fkubernetes.a2a5f445.svg&w=384&q=75" alt="icon" width="50" height="50" />
-            <img src="https://www.sabarish.in/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fjenkins.69e53270.svg&w=384&q=75" alt="icon" width="50" height="50" />
-            <img src="https://www.svgrepo.com/show/353829/grafana.svg" alt="icon" width="50" height="50" />
-   <img src="https://www.svgrepo.com/show/377840/wireshark.svg" alt="icon" width="50" height="50" />
-   <img src="https://www.svgrepo.com/show/448628/splunk.svg" alt="icon" width="50" height="50" />
-     <img src="https://www.svgrepo.com/show/354202/postman-icon.svg" alt="icon" width="50" height="50" />
-   <img src="https://www.svgrepo.com/show/353380/airflow.svg" alt="icon" width="50" height="50" />
-   <img src="https://www.svgrepo.com/show/512317/github-142.svg" alt="icon" width="50" height="50" />
-      <img src="https://www.sabarish.in/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ffirebase.3dec0b45.svg&w=384&q=75" alt="icon" width="50" height="50" />
-         <img src="https://www.sabarish.in/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fapache.ef53da74.svg&w=384&q=75" alt="icon" width="50" height="50" />
-             <img src="https://www.svgrepo.com/show/354200/postgresql.svg" alt="icon" width="50" height="50" />
-   <img src="https://www.svgrepo.com/show/303251/mysql-logo.svg" alt="icon" width="50" height="50" />
-   <img src="https://www.svgrepo.com/show/331488/mongodb.svg" alt="icon" width="50" height="50" />
-     <img src="https://www.svgrepo.com/show/400746/snowflake.svg" alt="icon" width="50" height="50" />
-</div>
+- 🔭 &nbsp;Designing cloud-native systems that scale to millions
+- 🛡️ &nbsp;Turning vulnerabilities into war stories
+- ⚡ &nbsp;CI/CD fanatic — if it's not automated, it's technical debt
+- 🤖 &nbsp;Exploring the GenAI × Infrastructure intersection
+- 🌐 &nbsp;5x certified — AWS · GCP · Kubernetes · CISM
+
+<br/>
 
 ---
 
-## 📊 GitHub Statistics
+## 🛠️ &nbsp;Tech Arsenal
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sunshine-22&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunshine-22&layout=compact&langs_count=8&theme=tokyonight"/>
-</div>
+**Cloud & Infra**
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=sunshine-22&theme=tokyonight&hide_border=true" />
-</div>
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-%234285F4.svg?style=flat-square&logo=google-cloud&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-%230072C6.svg?style=flat-square&logo=microsoftazure&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-%235835CC.svg?style=flat-square&logo=terraform&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=flat-square&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white)
+![Helm](https://img.shields.io/badge/Helm-%230F1689.svg?style=flat-square&logo=helm&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-%232C5263.svg?style=flat-square&logo=jenkins&logoColor=white)
+![CircleCI](https://img.shields.io/badge/CircleCI-%23161616.svg?style=flat-square&logo=circleci&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-%23F46800.svg?style=flat-square&logo=grafana&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-%23009639.svg?style=flat-square&logo=nginx&logoColor=white)
+![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apache-airflow&logoColor=white)
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sunshine-22&theme=tokyo-night&hide_border=true&area=true" />
-</div>
+**Languages & Frameworks**
 
----
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=flat-square&logo=go&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white)
+![Scala](https://img.shields.io/badge/Scala-%23DC322F.svg?style=flat-square&logo=scala&logoColor=white)
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi)
+![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=flat-square&logo=django&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat-square&logo=flutter&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white)
 
-## 🏆 Achievements & Certifications
+**Data & Security**
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sunshine-22&theme=tokyonight&no-frame=true&row=1&column=6" />
-</div>
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=flat-square&logo=mysql&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-%2329B5E8.svg?style=flat-square&logo=snowflake&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=flat-square&logo=firebase)
+![Splunk](https://img.shields.io/badge/Splunk-000000.svg?style=flat-square&logo=splunk&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-%231679A7.svg?style=flat-square&logo=wireshark&logoColor=white)
+![Consul](https://img.shields.io/badge/Consul-%23F24C53.svg?style=flat-square&logo=consul&logoColor=white)
 
-### 🎯 Certifications
-
-- ☁️ AWS Certified Solutions Architect
-- 🔐 AWS Certified Security Specialty
-- ⚙️ Certified Kubernetes Administrator (CKA)
-- 🛡️ Certified Information Security Manager (CISM)
-- 🏗️ Google Cloud Professional Cloud Architect
-
----
-
-## 🔥 Recent Projects
-
-### 🚀 Cloud Infrastructure Automation
-
-Terraform modules for multi-cloud infrastructure deployment with security best practices and monitoring.
-
-### 🛡️ Security Scanning Pipeline
-
-Automated security scanning pipeline integrated with CI/CD for vulnerability assessment and compliance checking.
-
-### ⚡ Microservices Architecture
-
-Scalable microservices deployment on EKS with service mesh, observability, and auto-scaling capabilities.
+<br/>
 
 ---
 
-## 🤝 Let's Connect!
-
-<p align="left">
-<a href="https://twitter.com/sunshine_22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="suryasanity" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/sunshine-22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="surya-t" height="30" width="40" /></a>
-</p>
-
-
-
+## 📊 &nbsp;GitHub Stats
 
 <div align="center">
-  <svg width="200" height="35" xmlns="http://www.w3.org/2000/svg">
-    <rect width="200" height="35" rx="5" fill="#36BCF7"/>
-  </svg>
+  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=sunshine-22&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=36BCF7&icon_color=36BCF7"/>
+  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunshine-22&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=36BCF7"/>
 </div>
+
 <div align="center">
-  <i>❤️ From <a href="https://github.com/sunshine-22">sunshine-22</a></i>
+  <img src="https://streak-stats.demolab.com?user=sunshine-22&theme=tokyonight&hide_border=true&background=0d1117&ring=36BCF7&fire=36BCF7&currStreakLabel=36BCF7" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sunshine-22&theme=tokyo-night&hide_border=true&area=true&area_color=36BCF7&bg_color=0d1117" />
+</div>
+
+<br/>
+
+---
+
+## 🏆 &nbsp;Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sunshine-22&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=10&no-bg=true" />
+</div>
+
+<br/>
+
+---
+
+## 🎯 &nbsp;Certifications
+
+<div align="center">
+
+| &nbsp; | Certification | Issuer |
+|:---:|---|:---:|
+| ☁️ | Solutions Architect – Associate | AWS |
+| 🔐 | Security Specialty | AWS |
+| ⚙️ | Certified Kubernetes Administrator (CKA) | CNCF |
+| 🛡️ | Certified Information Security Manager (CISM) | ISACA |
+| 🏗️ | Professional Cloud Architect | Google Cloud |
+
+</div>
+
+<br/>
+
+---
+
+## 🚀 &nbsp;Highlight Projects
+
+```yaml
+projects:
+  - name: "Cloud Infra Automation"
+    desc: "Multi-cloud Terraform modules with security controls baked in from day 0"
+    stack: [Terraform, AWS, GCP, Kubernetes]
+
+  - name: "Automated Security Pipeline"
+    desc: "CVE scanning + SAST/DAST + compliance gates wired into CI/CD"
+    stack: [Python, Jenkins, Splunk, Docker]
+
+  - name: "EKS Microservices Platform"
+    desc: "Production-grade service mesh with auto-scaling, observability, and zero-downtime deploys"
+    stack: [Kubernetes, Istio, Grafana, Terraform]
+```
+
+<br/>
+
+---
+
+<div align="center">
+  <i>⚡ <a href="https://www.sabarish.in">sabarish.in</a> &nbsp;·&nbsp; Open to interesting problems</i>
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:0d1117&height=120&section=footer" width="100%"/>
 </div>
